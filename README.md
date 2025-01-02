@@ -1,6 +1,6 @@
 # devops-projects
-1. Server Performance Stats ✅
-2. Log Archive Tool ✅
+1. Server Performance Stats 
+2. Log Archive Tool 
 3. Nginx Log Analyser
 4. GitHub Pages Deployment
 5. SSH Remote Server Setup
