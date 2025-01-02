@@ -1,5 +1,5 @@
 # devops-projects
-1. Server Performance Stats 
+1. Server Performance Stats ✅
 2. Log Archive Tool 
 3. Nginx Log Analyser
 4. GitHub Pages Deployment
