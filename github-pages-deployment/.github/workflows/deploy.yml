@@ -5,7 +5,7 @@ on:
         branches:
             - main
         paths:
-            - 'index.html'
+            - 'github-pages-deployment/index.html'
 
 jobs:
     deploy:
@@ -13,7 +13,7 @@ jobs:
 
         steps:
             - name: Checkout repository
-              uses: actions/checkout@v4
+              uses: actions/checkout@v2
 
             - name: Setup Node.js
               uses: actions/setup-node@v2
