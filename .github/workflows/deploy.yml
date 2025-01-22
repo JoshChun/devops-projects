@@ -22,9 +22,11 @@ jobs:
 
             - name: Install dependencies
               run: npm install
+              working-directory: ./github-pages-deployment
 
             - name: Build project
               run: npm run build
+              working-directory: ./github-pages-deployment
              
             - name: Deploy to Github Pages
               uses: peaceiris/actions-gh-pages@v3
