@@ -1,0 +1,12 @@
+{
+  "name": "github-pages-deployment",
+  "version": "1.0.0",
+  "description": "GitHub Actions CI/CD for Static Website Deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
