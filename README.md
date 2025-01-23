@@ -2,7 +2,7 @@
 1. [Server Performance Stats](https://roadmap.sh/projects/server-stats) ✅
 2. Log Archive Tool 
 3. Nginx Log Analyser
-4. GitHub Pages Deployment
+4. [GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) ✅
 5. SSH Remote Server Setup
 6. Static Site Server
 7. Basic DNS Setup
